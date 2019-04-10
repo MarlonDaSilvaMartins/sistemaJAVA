@@ -7,8 +7,8 @@
 package servicos;
 
 /**
- * @author Thiago Cury
- * @since 07/04/2014 - 11:46
+ * @author Marlon da Silva Martins
+ * @since 07/04/2017 - 11:46
  * @version 1.0 beta
  */
 public class ServicosFactory {

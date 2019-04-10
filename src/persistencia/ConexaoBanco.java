@@ -9,9 +9,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * @author Thiago Cury
+ * @author Marlon da Silva Martins
  * @version 1.0 beta
- * @since 07/04/2014
+ * @since 07/04/2017
  */
 public class ConexaoBanco {
 

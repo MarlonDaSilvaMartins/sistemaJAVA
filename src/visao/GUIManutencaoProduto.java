@@ -12,8 +12,8 @@ import servicos.ProdutoServicos;
 import servicos.ServicosFactory;
 
 /**
- * @author Thiago Cury
- * @since 09/04/2014 - 09:55
+ * @author Marlon da Silva Martins
+ * @since 09/04/2017 - 09:55
  * @version 1.0 beta
  */
 public class GUIManutencaoProduto extends javax.swing.JInternalFrame {
